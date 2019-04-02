@@ -1,0 +1,7 @@
+{
+  "name": "ingmockmochathon",
+  "short_name": "ingmockmochathon",
+  "description": "Mock Application",
+  "start_url": "/",
+  "display": "standalone"
+}
